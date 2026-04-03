@@ -98,3 +98,7 @@ POE交易工具2:https://forum.gamer.com.tw/C.php?bsn=18966&snA=130059
 寶庫獎勵
 
 ![寶庫獎勵](2.png)
+
+密教
+
+![艾瓦](poe-syndicate.png)
