@@ -101,4 +101,4 @@ POE交易工具2:https://forum.gamer.com.tw/C.php?bsn=18966&snA=130059
 
 密教
 
-![密教](poe-syndicate.png)
+![密教](syndicate.png)
