@@ -25,6 +25,8 @@ AHK說明: https://github.com/heyfey/POE_Utility#如何使用
 
 永恆珠寶模擬器2:https://vilsol.github.io/timeless-jewels/tree?jewel=2&conqueror=Kiloava&seed=17236&location=34483&mode=stats&stat=1328
 
+永恆珠寶模擬器3:https://poe-timeless-jewels.web.app/
+
 大量賣工具:https://bulk.tftrove.com/ 
 
 關南過濾器:https://xanthics.github.io/poe_gen_gwennen
